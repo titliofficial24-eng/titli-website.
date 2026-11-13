@@ -25,8 +25,8 @@ type Product = {
   description: string
 }
 
-const logoIcon = '/assets/icons/TITLI_Instagram_Profile_Icon.svg'
-const logoPoster = '/assets/images/TITLI_Butterfly_Brand_Poster.png'
+const logoIcon = '/assets/images/TITLI_Master_Logo_Hot_Pink_Background_4K.png'
+const logoPoster = '/assets/images/TITLI Butterfly Brand Poster.png'
 const brandBoard = '/assets/images/TITLI_Hot_Pink_Brand_Identity_Board.png'
 
 const products: Product[] = [
