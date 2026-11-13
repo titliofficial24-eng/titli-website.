@@ -27,7 +27,7 @@ type Product = {
 
 const logoIcon = '/assets/icons/TITLI_Instagram_Profile_Icon.svg'
 const logoPoster = '/assets/images/TITLI_Butterfly_Brand_Poster.png'
-const brandBoard = '/assets/images/TITLI_Hot_Pink_Brand_Identity_Board.png'
+const brandBoard = '/assets/images/TITLI Hot Pink Brand Identity Board.png'
 
 const products: Product[] = [
   {
